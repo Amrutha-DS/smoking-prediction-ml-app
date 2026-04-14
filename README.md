@@ -1,2 +1,13 @@
-# smoking-prediction-ml-app
-A smart ML-powered web app that analyzes health metrics to predict smoking behavior. Built with Random Forest and deployed using Streamlit, offering real-time predictions with an intuitive interface.
+🚬 Smoking Prediction ML App
+
+A machine learning web application that predicts whether a person is a smoker or non-smoker based on health and lifestyle data.
+
+Built using Random Forest and deployed with Streamlit for real-time predictions.
+
+🔗 Live App:https://smoking-prediction-app.streamlit.app/
+
+Tech Stack:
+- Python
+- Data Analysis (Pandas, NumPy)
+- Machine Learning (Scikit-learn, Random Forest)
+- Streamlit
