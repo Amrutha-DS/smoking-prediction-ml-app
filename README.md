@@ -4,7 +4,7 @@ A machine learning web application that predicts whether a person is a smoker or
 
 Built using Random Forest and deployed with Streamlit for real-time predictions.
 
-🔗 Live App:https://smoking-prediction-app.streamlit.app/
+🔗 Live App:https://smoking-prediction-app.streamlit.app/#blood-test-results
 
 Tech Stack:
 - Python
