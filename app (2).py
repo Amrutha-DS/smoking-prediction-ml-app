@@ -10,7 +10,7 @@ MODEL_PATH = os.path.join(os.path.dirname(__file__), "model.pkl")
 model = pickle.load(open(MODEL_PATH, "rb"))
 
 st.title("🚬 Smoking Prediction App")
-
+st.image("https://raw.githubusercontent.com/Amrutha-DS/smoking-prediction-ml-app/main/Smoking.png")
 # =========================
 # 👨‍💻 ADD YOUR DETAILS HERE
 # =========================
