@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 import pickle
 import os
-
+st.set_page_config(layout="wide")
 # Load model
 MODEL_PATH = os.path.join(os.path.dirname(__file__), "model.pkl")
 model = pickle.load(open(MODEL_PATH, "rb"))
